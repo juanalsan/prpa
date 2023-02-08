@@ -1,0 +1,48 @@
+Script started on 2023-02-08 21:00:56+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;juan@juan-To-be-filled-by-O-E-M: ~[01;32mjuan@juan-To-be-filled-by-O-E-M[00m:[01;34m~[00m$ git clone git@github.com:git@github.com:juanalsan/progpar.git[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit clone [7mgit@github.com:juanalsan/prpa.git[27mgit@github.com:juanalsan/prpa.git
+[?2004lClonando en 'prpa'...
+warning: Pareces haber clonado un repositorio sin contenido.
+[?2004h]0;juan@juan-To-be-filled-by-O-E-M: ~[01;32mjuan@juan-To-be-filled-by-O-E-M[00m:[01;34m~[00m$ [7mcd prpa[27mcd prpa
+[?2004l[?2004h]0;juan@juan-To-be-filled-by-O-E-M: ~/prpa[01;32mjuan@juan-To-be-filled-by-O-E-M[00m:[01;34m~/prpa[00m$ git add ^[[200~0_procesos.py~[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K [7m0_procesos.py[27m0_procesos.py
+[?2004l[?2004h]0;juan@juan-To-be-filled-by-O-E-M: ~/prpa[01;32mjuan@juan-To-be-filled-by-O-E-M[00m:[01;34m~/prpa[00m$ git add 0_procesos.py[C[1P_procesos.py1_procesos.py
+[?2004l[?2004h]0;juan@juan-To-be-filled-by-O-E-M: ~/prpa[01;32mjuan@juan-To-be-filled-by-O-E-M[00m:[01;34m~/prpa[00m$ git add 1_procesos.py[C[1P_procesos.py2_procesos.py
+[?2004l[?2004h]0;juan@juan-To-be-filled-by-O-E-M: ~/prpa[01;32mjuan@juan-To-be-filled-by-O-E-M[00m:[01;34m~/prpa[00m$ git add 2_procesos.py[C[1P_procesos.py3_procesos.py
+[?2004l[?2004h]0;juan@juan-To-be-filled-by-O-E-M: ~/prpa[01;32mjuan@juan-To-be-filled-by-O-E-M[00m:[01;34m~/prpa[00m$ [7mgit commit -m "comentario"[27mgit commit -m "comentario"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"c"o"m"m"i"t" "d"e"l"o"s"[1P"[1P"[1P" "l"o"s" "."p"y"
+[?2004lIdentidad del autor desconocido
+
+*** Por favor cuéntame quién eres.
+
+Ejecuta
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Tu Nombre"
+
+para configurar la identidad por defecto de tu cuenta.
+Omite --global para configurar tu identidad solo en este repositorio.
+
+fatal: no es posible auto-detectar la dirección de correo (se obtuvo 'juan@juan-To-be-filled-by-O-E-M.(none)')
+[?2004h]0;juan@juan-To-be-filled-by-O-E-M: ~/prpa[01;32mjuan@juan-To-be-filled-by-O-E-M[00m:[01;34m~/prpa[00m$ [7mgit commit -m "comentario"[27m[1Pgit commit -m "comentario[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mgit config --global user.email "you@exam[27m[7mp[27m[7mle.com"[27m[A]0;juan@juan-To-be-filled-by-O-E-M: ~/prpa[01;32mjuan@juan-To-be-filled-by-O-E-M[00m:[01;34m~/prpa[00m$ git config --global user.email "you@example.com"[C[1P.com"[C[C[1P.com"[C[1P.com"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.c[1Pom"[A]0;juan@juan-To-be-filled-by-O-E-M: ~/prpa[01;32mjuan@juan-To-be-filled-by-O-E-M[00m:[01;34m~/prpa[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.co[1Pm"[A]0;juan@juan-To-be-filled-by-O-E-M: ~/prpa[01;32mjuan@juan-To-be-filled-by-O-E-M[00m:[01;34m~/prpa[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.com[1P"[A]0;juan@juan-To-be-filled-by-O-E-M: ~/prpa[01;32mjuan@juan-To-be-filled-by-O-E-M[00m:[01;34m~/prpa[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.com"[K[A]0;juan@juan-To-be-filled-by-O-E-M: ~/prpa[01;32mjuan@juan-To-be-filled-by-O-E-M[00m:[01;34m~/prpa[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.com" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.com"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.com"[1P.com"j.com"u.com"a.com" [A]0;juan@juan-To-be-filled-by-O-E-M: ~/prpa[01;32mjuan@juan-To-be-filled-by-O-E-M[00m:[01;34m~/prpa[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cn.com"[A]0;juan@juan-To-be-filled-by-O-E-M: ~/prpa[01;32mjuan@juan-To-be-filled-by-O-E-M[00m:[01;34m~/prpa[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca.com"[A]0;juan@juan-To-be-filled-by-O-E-M: ~/prpa[01;32mjuan@juan-To-be-filled-by-O-E-M[00m:[01;34m~/prpa[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl.com"[A]0;juan@juan-To-be-filled-by-O-E-M: ~/prpa[01;32mjuan@juan-To-be-filled-by-O-E-M[00m:[01;34m~/prpa[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs.com"[A]0;juan@juan-To-be-filled-by-O-E-M: ~/prpa[01;32mjuan@juan-To-be-filled-by-O-E-M[00m:[01;34m~/prpa[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca.com"n.com"[Cb.com"[C[Ca.com"[C[C[Cc.com"h.com"⅛.com"[1P.com"@.com"g.com"m.com"a.com"i.com"l.com"
+[?2004l[?2004h]0;juan@juan-To-be-filled-by-O-E-M: ~/prpa[01;32mjuan@juan-To-be-filled-by-O-E-M[00m:[01;34m~/prpa[00m$ git config --global user.email "juanalsanbach@gmail.com"[A]0;juan@juan-To-be-filled-by-O-E-M: ~/prpa[01;32mjuan@juan-To-be-filled-by-O-E-M[00m:[01;34m~/prpa[00m$ [C[C[C[C[C[C[7Pmmit -m "commit de los .py"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[main (commit-raíz) d8e215a] commit de los .py
+ 4 files changed, 76 insertions(+)
+ create mode 100644 0_procesos.py
+ create mode 100644 1_procesos.py
+ create mode 100644 2_procesos.py
+ create mode 100644 3_procesos.py
+[?2004h]0;juan@juan-To-be-filled-by-O-E-M: ~/prpa[01;32mjuan@juan-To-be-filled-by-O-E-M[00m:[01;34m~/prpa[00m$ ^?[K[7mgit push[27mgit push
+[?2004lEnumerando objetos: 6, listo.
+Contando objetos:  16% (1/6)Contando objetos:  33% (2/6)Contando objetos:  50% (3/6)Contando objetos:  66% (4/6)Contando objetos:  83% (5/6)Contando objetos: 100% (6/6)Contando objetos: 100% (6/6), listo.
+Compresión delta usando hasta 4 hilos
+Comprimiendo objetos:  16% (1/6)Comprimiendo objetos:  33% (2/6)Comprimiendo objetos:  50% (3/6)Comprimiendo objetos:  66% (4/6)Comprimiendo objetos:  83% (5/6)Comprimiendo objetos: 100% (6/6)Comprimiendo objetos: 100% (6/6), listo.
+Escribiendo objetos:  16% (1/6)Escribiendo objetos:  33% (2/6)Escribiendo objetos:  50% (3/6)Escribiendo objetos:  83% (5/6)Escribiendo objetos: 100% (6/6)Escribiendo objetos: 100% (6/6), 1.14 KiB | 1.14 MiB/s, listo.
+Total 6 (delta 1), reusados 0 (delta 0), pack-reusados 0
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), done.[K
+To github.com:juanalsan/prpa.git
+ * [new branch]      main -> main
+[?2004h]0;juan@juan-To-be-filled-by-O-E-M: ~/prpa[01;32mjuan@juan-To-be-filled-by-O-E-M[00m:[01;34m~/prpa[00m$ [?2004l
+exit
+
+Script done on 2023-02-08 21:13:01+01:00 [COMMAND_EXIT_CODE="0"]
